@@ -3,7 +3,6 @@
 <style>
 ul{
 list-style-type:none;
-margin:0;
 width:200px;
 background-color:#f1f1f1;
 }
@@ -15,7 +14,7 @@ text-decoration:none;
 }
 li a:hover{
 background-color:#555;
-color:black;
+color:pink;
 }
 
 </style>
@@ -25,7 +24,7 @@ color:black;
 <li><a href="https://www.wikipedia.org">home</li>
 <li><a href="https://www.amazon.com">news</li>
 <li><a href="http://www.edhitch.com/login.html">contact</li></li>
-<li><a href="https://in.yahoo.com/?p=us">about</li></li>
+
 </ul>
 </body>
 </html>
