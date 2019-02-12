@@ -7,13 +7,11 @@ margin:0;
 width:200px;
 background-color:#f1f1f1;
 }
-li a{
 display:block;
 color:#000;
 padding:8px 16px;
 text-decoration:none;
 }
-li a:hover{
 background-color:#555;
 color:black;
 }
@@ -23,7 +21,6 @@ color:black;
 <body>
 <ul>
 <li><a href="https://www.wikipedia.org">home</li>
-<li><a href="https://www.amazon.com">news</li>
 <li><a href="http://www.edhitch.com/login.html">contact</li></li>
 <li><a href="https://in.yahoo.com/?p=us">about</li></li>
 </ul>
